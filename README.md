@@ -1,1 +1,2 @@
-This is the initial README.md
+#!/bin/bash
+This is my first README\n
