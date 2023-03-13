@@ -1,2 +1,1 @@
-#!/bin/bash
-This is my first README\n
+A README.md describing shell redirections
