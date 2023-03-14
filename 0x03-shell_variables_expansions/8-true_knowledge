@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE+`expr $128`
+echo$(($TRUEKNOWLEDGE+128))
