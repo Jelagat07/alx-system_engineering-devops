@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -arRtlh | tail -50 
+sort|ls -lt|head
